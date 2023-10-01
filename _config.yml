@@ -59,15 +59,17 @@ author:
   bio    : "Votre porte-parole"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa-solid fa-envelope"
       url: "mailto:cgtingeliance@gmail.com"
     - label: "Revendications"
       icon: "fa-solid fa-hand-fist"
       url: /revendications/
     - label: "Communications CGT Ingeliance"
       url: /actualites/
+      icon: "fa-solid fa-microphone"
     - label: "Communications CGT générales"
       url: /infoscgt/
+      icon: "fa-solid fa-newspaper"
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://twitter.com/"
