@@ -9,14 +9,12 @@ excerpt: >
   Votre porte-parole<br />
 feature_row:
   - image_path: /assets/images/Poing_revendicatif_pour_ajout_texte.jpg
-    # alt: "customizable"
     title: "Nos revendications"
     excerpt: "Les salaires, conditions de travail et autres revendications"
     url: "/revendications"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
   - image_path: /assets/images/logo_cgt_ingeliance.png
-    # alt: "100% free"
     title: "Les actualités"
     excerpt: "Négociations en cours et communications"
     url: "/actualites"
