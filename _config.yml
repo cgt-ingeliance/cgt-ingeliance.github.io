@@ -62,7 +62,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cgtingeliance@gmail.com"
     - label: "Revendications"
-      icon: "far fa-fist-raised"
+      icon: "fa-solid fa-hand-fist"
       url: /revendications/
     - label: "Communications CGT Ingeliance"
       url: /actualites/
