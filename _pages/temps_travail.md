@@ -1,13 +1,8 @@
 ---
-permalink: /revendications/
-title: "Nos revendications"
+permalink: /temps_travail/
+title: "Le temps de travail"
 ---
 
-## Les salaires
-
-[L'article complet ici](/salaires/){: .btn}
-
-## Le temps de travail
 
 « Il n’y a pas que le salaire » Chiche ! Voici des pistes de réflexion pour une modernisation de nos contrats au regard des attentes d’aujourd’hui :
 - L’alignement des RTT des ETAM sur les cadres,
@@ -17,7 +12,6 @@ title: "Nos revendications"
 - La mise en place d’un Compte Épargne Temps,
 - L’arrêt des congés imposés.
 
-[L'article complet ici](/temps_travail/){: .btn}
 
-## Le partage
 
+[Retour](/revendications){: .btn}
