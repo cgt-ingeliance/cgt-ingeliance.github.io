@@ -10,6 +10,8 @@ title: "Les salaires"
 
 <a href="https://www.alternatives-economiques.fr/christian-chavagneux/ny-a-de-boucle-prix-salaire/00104705" target="_blank">Surprise, elle n'existe pas. </a>
 
-Rassurons donc la direction, augmenter nos salaires ne devrait pas transformer la France en Venezuela. 
+Rassurons donc la direction, une revalorisation de nos salaires ne devrait pas transformer la France en Venezuela. 
+
+<a href="https://analyses-propositions.cgt.fr/memo-eco-inflation-la-boucle-prix-profit-ne-fait-plus-aucun-doute" target="_blank">Une note d'analyse de la CGT. </a>
 
 [Retour](/revendications){: .btn}
