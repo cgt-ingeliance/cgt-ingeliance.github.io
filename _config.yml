@@ -61,6 +61,13 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cgtingeliance@gmail.com"
+    - label: "Revendications"
+      icon: "far fa-fist-raised"
+      url: /revendications/
+    - label: "Communications CGT Ingeliance"
+      url: /actualites/
+    - label: "Communications CGT générales"
+      url: /infoscgt/
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://twitter.com/"
