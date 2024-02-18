@@ -5,7 +5,7 @@ title: "Nos revendications"
 
 ## Préambule : le maintien du salaire réel
 
-Notre revendication minimale concerne le maintien des salaires réels (le salaire corrigé de l'inflation) face à l'inflation. [En an an, les prix à la consommation augmentent de 3.1%](https://www.insee.fr/fr/statistiques/7766498), nous demandons donc avant tout l'alignement des salaires avec ce taux. Aucun·e salarié·e ne doit s'appauvrir.
+Notre revendication minimale concerne le maintien des salaires réels (le salaire corrigé de l'inflation). [En an an, les prix à la consommation augmentent de 3.1%](https://www.insee.fr/fr/statistiques/7766498), nous demandons donc avant tout l'alignement des salaires avec ce taux. Aucun·e salarié·e ne doit s'appauvrir.
 
 
 ## Nos constats
