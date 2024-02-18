@@ -7,5 +7,5 @@ tags:
   - manifestation
 ---
 
-![alt](/assets/images/comcgt/ACTION%2014%2015%20FEVRIER%207%20MARS%202024-1.pdf)
+![alt](/assets/images/comcgt/ACTION 14 15 FEVRIER 7 MARS 2024-1.png)
 
