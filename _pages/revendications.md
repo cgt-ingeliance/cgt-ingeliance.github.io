@@ -11,7 +11,7 @@ La direction revendique la méritocratie : les méritants seraient augmentés, t
 
 ## Nos constats
 
-En septembre, [nous adressions une lettre à la direction](/_posts/2023-09-06-Lettre.md), qui se révèle être toujours d'actualité. Le projet de restructuration passe complètement à côté d'un de nos problèmes majeurs: le recrutement et le turn-over. La direction reste encore bien trop éloignée de la production.
+En septembre, [nous adressions une lettre à la direction](/communication/Lettre/), qui se révèle être toujours d'actualité. Le projet de restructuration passe complètement à côté d'un de nos problèmes majeurs: le recrutement et le turn-over. La direction reste encore bien trop éloignée de la production.
 
 Entre 2017 et 2021, le salaire réel médian a baissé de 40 à 96€ selon les catégories. Impossible dans ces conditions de retrouver l'ancienneté moyenne des années 2017 ou 2018, qui nous avait permis de recruter massivement, de faire une année record en 2019, d'intégrer les nouveaux arrivants avec succès.
 
