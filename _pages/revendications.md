@@ -35,6 +35,7 @@ Hier, la direction nous "rassurait"&nbsp;: elle ne céderait pas aux revendicati
 - La diminution du temps de travail hebdomadaire à salaire constant,
 - La mise en place d’un Compte Épargne Temps (acté aux NAO de 2023, projet porté disparu)
 - L’arrêt des congés imposés.
+
 Il s'agit des mêmes revendications que les années précédentes puisque la direction écarte par principe toute avancée dans cette direction.
 
 [L'article complet ici](/temps_travail/){: .btn}
