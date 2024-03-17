@@ -29,6 +29,8 @@ La diminution du temps de travail est une demande récurrente de la part de nos 
 
 La direction refuse cette baisse au prétexte que nous visons la "croissance". Au delà du fait que c'est un non-argument (car c'est le cas de toutes les entreprises), qu'il n'y a pas de lien évident entre temps de travail et croissance (la preuve, justement...), et qu'il y a nombre d'entreprises ayant déjà constaté que la réduction du temps de travail n'impactait pas la rentabilité (au contraire), **ce choix porte préjudice à l'objectif même de croissance en _provocant_ des départs !**
 
+Dans un premier temps, nous proposons déjà une mesure sans coût pour l'entreprise : offrir clairement la possibilité à chacun·e d'avoir un contrat 35h+RTT.
+
 [Retour](/revendications){: .btn}
 
 ## La mise en place d’un Compte Épargne Temps
