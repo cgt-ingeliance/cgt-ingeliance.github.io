@@ -30,6 +30,7 @@ Hier, la direction nous "rassurait"&nbsp;: elle ne céderait pas aux revendicati
 
 « Il n’y a pas que le salaire » Chiche ! Voici des pistes de réflexion pour une modernisation de nos contrats au regard des attentes d’aujourd’hui&nbsp;:
 - L’alignement des RTT des ETAM sur les cadres,
+- La réduction du temps de travail hebdomadaire, _a minima_ la possibilité simple de passer à un contrat 35h+RTT
 - Le passage à 215 jours travaillés (soit +3 jours de RTT),
 - La mise en place de congés « enfant malade »,
 - La diminution du temps de travail hebdomadaire à salaire constant,
